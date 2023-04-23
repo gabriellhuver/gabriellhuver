@@ -16,7 +16,7 @@ Olá! 👋 Sou um desenvolvedor apaixonado por criar soluções inovadoras e est
 
 ## Projetos
 
-Para ver todos os meus projetos, acesse [meus repositórios](https://github.com/seu_usuario?tab=repositories).
+Para ver todos os meus projetos, acesse [meus repositórios](https://github.com/gabriellhuver?tab=repositories).
 
 ![Estatísticas do GitHub de {gabriellhuver}](https://github-readme-stats.vercel.app/api?username=gabriellhuver&show_icons=true&theme=radical)
 
